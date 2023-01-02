@@ -1,4 +1,4 @@
-# HyperBlog :tw-1f310: 
+# HyperBlog :mushroom:  
 ### Un proyecto creado para practicar el uso de Git y GitHub
 
 #### En él aprendí:
