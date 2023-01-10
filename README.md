@@ -13,6 +13,7 @@
 	- Flujo de trabajo profesional con pull requests
 	- Ignorar archivos en el repositorio con .gitignore
 	- Uso de readme.md
-
+	- Incluye jemplos en windows, linux y mac
+	- Apto para todo publico 
 #### Créditos:
 * Creado y desarrollado por Tomás Euliarte
