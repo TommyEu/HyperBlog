@@ -13,3 +13,6 @@
 	- Flujo de trabajo profesional con pull requests
 	- Ignorar archivos en el repositorio con .gitignore
 	- Uso de readme.md
+
+#### Créditos:
+* Creado y desarrollado por Tomás Euliarte
